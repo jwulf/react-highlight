@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/akiran/react-highlight",
   "dependencies": {
-    "highlight.js": "^9.6.0",
+    "highlight.js": "https://github.com/jwulf/highlight.js.git",
     "react": "^0.14.0 || ^15.0.0",
     "react-dom": "^0.14.0 || ^15.0.0"
   },
